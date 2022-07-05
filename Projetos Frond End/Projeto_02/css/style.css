@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:'Open Sans', sans-serif;
+}
+
+
+html,body{
+	height: 100%;
+}
+
+.container{
+	width: 100%;
+	max-width: 1020px;
+	margin:0 auto;
+}
+
+.clear{
+	clear: both;
+}
+
+form section{
+	float: right;
+}
+form a{
+	float: left;
+	margin: 0 10px;
+}
+
+header{
+	background-color:black;
+	padding:15px 3% 25px 3%;	
+}
+
+.logo-01{
+	float: left;
+	width: 200px;
+	height: 100px;
+	background-image: url('../imagens/logo.01.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+
+section.video-maquina{
+	margin-top: 30px;
+	float: left;
+	
+}
+
+
+.cover-form{
+	float: right;
+	margin-top: 420px;
+	padding: 12px 2px;
+	
+}
+
+
+@media screen and (max-widht: 510px){
+	header{
+		text-align: center;
+	}
+
+	.logo-01{
+		margin-top: 10px;
+		display: inline-block;
+		float: none;
+	}
+	
+}
