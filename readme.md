@@ -1,4 +1,4 @@
-# Meus Projetos
+## Meus Projetos ##
 
 # Projetos Front End
 Este projeto contém diversos exercícios e aplicações práticas voltadas para o desenvolvimento front-end. São abordadas tecnologias essenciais como HTML, CSS e JavaScript, proporcionando uma base sólida para a criação de interfaces web. Além de conceitos básicos, o repositório pode incluir técnicas mais avançadas, como manipulação do DOM, responsividade e interatividade com eventos. Os projetos servem como prática para melhorar a lógica de programação e o design das páginas. A estrutura do código é organizada para facilitar o aprendizado e a reutilização. Esse material é útil tanto para iniciantes quanto para aqueles que desejam reforçar seus conhecimentos.
